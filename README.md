@@ -19,7 +19,7 @@ The project has the following files and directories:
 
 ## Usage
 To use the script, follow these steps:
-- Run the script with the desired options. For example, to create a new project, use: `./script.sh -p <project-name>`
+- Run the script with the desired options. For example, to create a new project, use: `./botify.sh -p <project-name>`
 - Follow the prompts and provide the necessary information.
 - The script will create the project structure, generate files, and install dependencies.
 - Refer to the generated README.md file inside the project directory for further instructions on running the bot.
